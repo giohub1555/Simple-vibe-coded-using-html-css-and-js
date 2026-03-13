@@ -1,6 +1,12 @@
 First Steps on Github.
+
+
 Hi there! I am learning FullStack Web Development and my files are uploaded just for my educational reasons. 😍
-I know four coding language:Python,JS "Basics",C# and HTML.👨‍💻
+
+
+I know four coding languages:Python,JS "Basics",C# and HTML.👨‍💻
+
+
 Hope you give me some advices about coding. Thanks!❤️
 
 
