@@ -3,6 +3,8 @@
 
 🌱 Currently learning C# and web development
 💻 Building small projects to practice my skills
+
+
 🎯 Goal: Become a full-stack developer
 📫 Reach me at: giorgigogashvili023@gmail.com
 
