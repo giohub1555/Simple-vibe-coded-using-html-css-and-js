@@ -1,13 +1,9 @@
-First Steps on Github.
+👋 Hi, I'm George!
 
 
-Hi there! I am learning FullStack Web Development and my files are uploaded just for my educational reasons. 😍
-
-
-I know four coding languages:Python,JS "Basics",C# and HTML.👨‍💻
-
-
-Hope you give me some advices about coding. Thanks!❤️
-
+🌱 Currently learning C# and web development
+💻 Building small projects to practice my skills
+🎯 Goal: Become a full-stack developer
+📫 Reach me at: giorgigogashvili023@gmail.com
 
 ![Image](https://github.com/user-attachments/assets/4c56bdf6-a5f3-4ae0-8e89-879a882a03f1)
